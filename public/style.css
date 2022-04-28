@@ -1,0 +1,36 @@
+.home{
+    width: 100%;
+    height: 60vh;
+    background-color: black;
+    margin: 20px 0px;
+}
+
+.warna{
+    color: aliceblue;
+}
+
+.paddingjudul{
+    padding-top: 150px;
+}
+
+.paddingjudulaboutus {
+    padding-top: 50px;
+}
+
+.paddingjudulproduct h1{
+   line-height: 60vh;
+   font-size: 100px;
+}
+
+.dashboard-btn{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.dashboard-btn a{
+    color: white;
+    border: 1px solid white;
+    padding: 15px 10px;
+    border-radius: 7px;
+}
